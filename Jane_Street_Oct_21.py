@@ -1,13 +1,10 @@
 # -*- coding: utf-8 -*-
 """
-# -*- coding: utf-8 -*-
 Created on Thu Oct 28 16:36:14 2021
-
-@author: munnjon
 
 Jane Street Puzzle
 Robot Swimming Trials
-
+# https://www.janestreet.com/puzzles/robot-swimming-trials-index/
 3N competitors roll a dice 1-N
 we don't care about who wins with a draw as we will never draw when we
 use 1/N constant strategy
